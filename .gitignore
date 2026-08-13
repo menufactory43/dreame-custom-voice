@@ -1,0 +1,8 @@
+.env
+build/
+dist/
+base_pack/
+*.tar.gz
+*.wav
+*.ogg
+!docs/**/*.ogg
