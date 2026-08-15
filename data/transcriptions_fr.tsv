@@ -1,0 +1,514 @@
+0	COPY
+1	En attente de la configuration du réseau.
+2	Impossible de se connecter au réseau Wi-Fi, vérifiez le mot de passe et réessayez plus tard.
+3	Impossible de se connecter au serveur, vérifiez votre réseau local et réessayez plus tard.
+4	Le robot a quitté le mode de configuration du réseau.
+5	Connexion au réseau réussie.
+6	Échec de la connexion au réseau. Veuillez réessayer plus tard.
+7	Démarrage du nettoyage.
+8	Démarrage du nettoyage localisé.
+9	Démarrage du nettoyage programmé.
+10	Reprise du nettoyage.
+11	COPY
+12	La tâche est terminée, Maître. Une chartreuse, maintenant ?
+13	Retour à la base pour charger.
+14	Batterie faible, retour à la base pour charger. Le robot reprendra le travail après la charge.
+17	Veuillez remettre le robot sur sa base.
+18	En charge.
+19	Veuillez retirer le robot de la base avant de l'éteindre.
+20	Batterie faible.
+21	Batterie faible, le robot va s'éteindre.
+25	Batterie faible, impossible d'effectuer le nettoyage programmé.
+26	Restauration des réglages d'usine.
+27	Mise à jour en cours, environ cinq minutes. Ne pas éteindre ni lancer de nettoyage.
+28	Mise à jour réussie.
+29	Échec de la mise à jour. Veuillez réessayer plus tard.
+30	Localisation en cours, veuillez patienter.
+31	Localisation échouée. Carte invalide. Le robot va démarrer un nouveau nettoyage.
+34	La vadrouille n'est pas installée. Veuillez l'installer.
+35	Erreur de la brosse principale, veuillez la vérifier et la nettoyer.
+36	Erreur de la brosse latérale, veuillez la vérifier et la nettoyer.
+37	Erreur de la roue droite. Veuillez la vérifier et la nettoyer.
+38	Erreur de la roue gauche. Veuillez la vérifier et la nettoyer.
+39	Les roues ne touchent pas le sol. Veuillez nettoyer les capteurs anti-chute, repositionner le robot et redémarrer.
+40	Le robot est coincé. Veuillez retirer les obstacles autour de lui.
+41	Les roues ne touchent pas le sol. Veuillez repositionner le robot et redémarrer.
+42	Veuillez vérifier et nettoyer le filtre.
+43	Erreur de pare-chocs. Veuillez taper doucement pour vérifier qu'il revient.
+44	Erreur, veuillez consulter le manuel ou contacter le service client.
+45	Je suis ici.
+46	Robot et téléphone connectés. Veuillez revenir à l'application pour attendre le résultat.
+47	Démarrage de la charge.
+48	Batterie faible, retour à la base.
+50	Erreur de charge, veuillez nettoyer les contacts de charge.
+52	Robot incliné, veuillez le poser sur une surface plane pour redémarrer.
+54	Localisation réussie, reprise du nettoyage.
+55	Localisation réussie, reprise du retour à la base.
+56	Démarrage du nettoyage de la pièce sélectionnée.
+57	Démarrage du nettoyage de la zone.
+58	Poursuite du nettoyage.
+59	Cartographie terminée. Veuillez retirer le réservoir d'eau à temps.
+61	Démarrage du lavage.
+62	Démarrage du nettoyage par télécommande.
+64	Localisation échouée, carte invalide. Le robot retourne à la base.
+65	Reprise du retour à la base.
+66	Filtre usé, veuillez le remplacer à temps.
+67	Brosse latérale usée. Veuillez la remplacer à temps.
+68	Brosse principale usée. Veuillez la remplacer à temps.
+71	Veuillez vérifier si le capteur laser n'est pas bloqué.
+72	Veuillez vérifier si le capot du capteur laser n'est pas bloqué.
+73	Erreur du capteur de bord. Veuillez le vérifier et le nettoyer.
+75	Le filtre n'est peut-être pas sec ou est peut-être bloqué.
+77	Veuillez démarrer le robot sur une surface sans moquette.
+81	Erreur du capteur de moquette. Veuillez redémarrer le robot ou contacter le service client.
+82	Démarrage de la cartographie.
+83	Poursuite de la cartographie.
+84	Cartographie terminée.
+85	Localisation réussie, poursuite de la cartographie.
+86	Localisation échouée, redémarrage de la cartographie.
+87	Batterie faible, retour à la base.
+91	Réservoir d'eau propre non installé, veuillez l'installer.
+93	Niveau d'eau faible dans le réservoir d'eau propre, veuillez ajouter de l'eau.
+97	Veuillez installer le sac de collecte de poussière.
+102	Sac à poussière plein ou conduit d'air bloqué. Veuillez remplacer le sac ou nettoyer le conduit à temps.
+105	Démarrage du nettoyage.
+106	Démarrage du lavage des vadrouilles.
+107	Démarrage du séchage des vadrouilles.
+108	Erreur de niveau d'eau dans la base de lavage. Veuillez la nettoyer à temps.
+109	Erreur du réservoir d'eau usée, veuillez vérifier qu'il est installé et vide.
+110	Démarrage de la vidange automatique.
+111	Vadrouilles non installées, veuillez les installer avant de reprendre le travail.
+112	Veuillez d'abord placer le robot dans la base.
+113	Tâche terminée, veuillez vider le réservoir d'eau usée à temps.
+114	Vadrouilles installées.
+115	Vadrouilles retirées.
+116	Sécurité enfant activée, boutons verrouillés.
+117	Verrouillage désactivé. Boutons déverrouillés.
+118	Boutons verrouillés, maintenez le bouton de la base enfoncé pour déverrouiller.
+126	Démarrage du nettoyage.
+127	Démarrage du nettoyage localisé.
+128	Démarrage du lavage localisé.
+129	Démarrage du nettoyage programmé.
+130	Démarrage de la cartographie programmée.
+133	Démarrage du nettoyage de la pièce sélectionnée.
+134	Démarrage du lavage de la pièce sélectionnée.
+135	Démarrage du nettoyage de la zone.
+136	Démarrage du lavage de la zone.
+137	Reprise du nettoyage.
+138	Reprise du lavage.
+139	Retour en cours.
+140	Nouvel environnement détecté, retour à la base.
+142	Vadrouille usée, veuillez la remplacer à temps.
+143	Nettoyage terminé.
+144	Lavage terminé.
+145	Localisation réussie, reprise du nettoyage.
+146	Localisation réussie, reprise de la cartographie.
+148	Retour à la base pour l'auto-nettoyage.
+149	Impossible d'atteindre la zone demandée, veuillez retirer les obstacles sur le trajet.
+150	Impossible d'atteindre la zone demandée, veuillez supprimer les zones interdites sur le trajet.
+151	Le trajet est bloqué. Veuillez retirer les obstacles autour du robot.
+152	Le trajet est bloqué. Veuillez supprimer les zones interdites ou déplacer le robot.
+153	Le robot est détecté dans une zone interdite. Veuillez le déplacer hors de cette zone.
+156	La vadrouille n'est pas installée.
+162	Caméra activée.
+163	Surveillance par caméra.
+164	Tâche terminée.
+166	Veuillez retirer les objets enchevêtrés dans la vadrouille.
+169	Séchage de la vadrouille terminé.
+171	Évitement intelligent d'obstacles activé.
+172	Évitement intelligent d'obstacles désactivé.
+173	Veuillez remplacer le stérilisateur à ions d'argent.
+177	Sortie de la base.
+179	Vadrouille nettoyée. L'eau du réservoir d'eau propre est insuffisante. Veuillez le remplir et vider le réservoir d'eau usée.
+181	Eau insuffisante, veuillez remplir le réservoir d'eau propre.
+186	Veuillez vérifier le réservoir d'eau propre.
+187	Cela prendra environ cinq à dix minutes.
+188	Accostage automatique engagé.
+190	D'accord, je démarre le nettoyage.
+191	D'accord, je démarre l'aspiration et le lavage.
+192	D'accord, je démarre le lavage.
+193	D'accord, je démarre l'aspiration.
+194	Je viens de nettoyer.
+195	D'accord, je nettoie la pièce. Assurez-vous que la porte est ouverte.
+196	D'accord, j'aspire le sol. Assurez-vous que la porte est ouverte.
+197	D'accord, je lave le sol. Assurez-vous que la porte est ouverte.
+198	D'accord, j'aspire et je lave le sol. Assurez-vous que la porte est ouverte.
+199	Impossible de reconnaître cette pièce. Veuillez ouvrir l'application pour vérifier le nom de la pièce.
+200	COPY
+201	D'accord, je continue.
+202	D'accord, tâche terminée. Je retourne charger.
+203	D'accord, je retourne charger.
+204	D'accord, je démarre la cartographie. Veuillez ouvrir toutes les portes.
+205	D'accord, je sors de la base.
+206	D'accord, j'essaie de vous trouver.
+207	Désolé, je ne vous trouve pas. Veuillez vous placer dans mon champ de vision.
+208	Je vous ai trouvé, j'arrive pour nettoyer.
+209	D'accord, je retourne à la base pour laver la vadrouille.
+210	Démarrage du lavage des vadrouilles.
+211	Désolé, la vidange automatique ne fonctionne que lorsque je suis dans la base.
+212	D'accord, je démarre la vidange automatique.
+213	Désolé, le séchage ne fonctionne que lorsque je suis dans la base.
+214	Séchage en cours.
+215	D'accord, je démarre le séchage.
+216	Désolé, il faut d'abord installer la vadrouille.
+217	Puissance d'aspiration maximale atteinte.
+218	Puissance d'aspiration minimale atteinte.
+219	Taux d'humidité maximal atteint.
+220	Taux d'humidité minimal atteint.
+221	D'accord.
+222	Le mode d'aspiration est silencieux.
+223	Le mode d'aspiration est standard.
+224	Le mode d'aspiration est puissant.
+225	Le mode d'aspiration est turbo.
+226	La vadrouille est légèrement sèche.
+227	La vadrouille est humide.
+228	La vadrouille est mouillée.
+229	Aujourd'hui, nous sommes...
+230	Aujourd'hui, nous sommes le vingt et un février deux mille vingt-deux.
+231	Aujourd'hui, nous sommes lundi.
+232	Aujourd'hui, nous sommes mardi.
+233	Aujourd'hui, nous sommes mercredi.
+234	Aujourd'hui, nous sommes jeudi.
+235	Aujourd'hui, nous sommes vendredi.
+236	Aujourd'hui, nous sommes samedi.
+237	Aujourd'hui, nous sommes dimanche.
+238	D'accord, la tâche est réussie.
+244	Bouteille de détergent installée.
+245	Le nombre de cartes a atteint sa limite. Veuillez supprimer une carte et réessayer.
+246	Je suis ici.
+247	Désolé, je n'ai pas compris.
+248	Vadrouille non installée, veuillez l'installer et réessayer.
+249	Je suis en train de travailler, veuillez terminer la tâche en cours et réessayer.
+250	Mode lavage actif, veuillez d'abord passer en mode aspiration ou aspiration et lavage.
+251	Mode aspiration actif, veuillez d'abord passer en mode lavage ou aspiration et lavage.
+252	Terminé, sortie du mode de nettoyage personnalisé.
+253	Volume maximal atteint.
+254	Volume minimal atteint.
+255	Désolé, cette tâche nécessite l'évitement intelligent d'obstacles activé.
+257	Sortie de la surveillance par caméra.
+258	Démarrage de la navigation autonome.
+259	Positionné, déplacement vers le lieu indiqué.
+260	Positionné, reprise de la navigation.
+261	Positionné, reprise du déplacement vers le lieu indiqué.
+262	Échec de la localisation autonome.
+266	Veuillez remplacer le détergent.
+267	Veuillez nettoyer les capteurs.
+269	Veuillez réessayer une fois la tâche en cours terminée.
+274	C'est mieux.
+275	Désolé, cette commande n'est pas prise en charge. Ouvrez l'application pour plus de commandes vocales.
+276	Désolé, le robot n'exécute pas cette tâche.
+277	D'accord, j'arrive pour nettoyer là-bas.
+278	D'accord, séchage terminé.
+279	Le robot aspire, veuillez terminer la tâche et réessayer.
+280	Démarrage du nettoyage personnalisé.
+281	Le robot est en train de se vider automatiquement. Veuillez réessayer plus tard.
+282	Le robot lave la vadrouille. Veuillez réessayer plus tard.
+283	Le robot n'est pas dans la base. Veuillez réessayer plus tard.
+284	D'accord, je termine la tâche et j'arrive pour nettoyer.
+285	Restez immobile un instant pendant que je vous localise.
+286	Désolé, veuillez créer une carte puis réessayer.
+287	D'accord, passage en mode silencieux.
+288	D'accord, passage en mode standard.
+289	D'accord, passage en mode puissant.
+290	D'accord, passage en mode turbo.
+291	D'accord, passage en mode légèrement sec.
+292	D'accord, passage en mode humide.
+293	Appel activé.
+294	Appel désactivé.
+296	Erreur du réservoir d'eau usée, veuillez vérifier s'il est plein.
+297	Bouteille de détergent installée. Si le détergent n'a jamais été utilisé, veuillez réinitialiser dans l'application.
+298	Démarrage du nettoyage de la base de lavage.
+299	Bouteille de détergent et module d'ajout automatique installés.
+300	Votre robot ne prend pas en charge cet accessoire.
+301	Je charge.
+302	Je travaille.
+303	COPY
+304	Réseau connecté.
+305	D'accord, je nettoie la base de lavage. Nettoyez l'intérieur avec une brosse ou un chiffon. Après trois minutes, l'eau usée sera évacuée.
+306	Désolé, je n'ai pas compris. Veuillez configurer le réseau et réessayer.
+307	Je charge.
+308	Désolé, je n'ai pas entendu. Réveillez-moi et réessayez.
+309	Je vous ai trouvé, j'arrive.
+310	D'accord, je quitte cette zone tout de suite.
+311	Vadrouilles retirées.
+312	Les informations d'utilisation de cet accessoire sont indisponibles. Remplacez-le si besoin.
+313	Désolé, le réseau est faible. Déplacez-moi vers une zone avec un meilleur signal.
+314	Non pris en charge, vous pouvez me demander de faire demi-tour.
+315	La vadrouille n'est pas dans la base. Réessayez après l'avoir placée dans la base.
+316	Il y a déjà une vadrouille dans la base.
+317	Non pris en charge, le robot exécute le nettoyage personnalisé. Ouvrez l'application pour modifier.
+318	La vadrouille a été nettoyée.
+319	Échec du retrait des vadrouilles. Veuillez les retirer manuellement.
+320	Échec de l'installation des vadrouilles. Veuillez les installer manuellement.
+321	Démarrage du lavage intensif pour les taches.
+322	Désolé, je n'ai pas compris. Ouvrez l'application pour toutes les commandes vocales.
+323	Désolé, je n'ai pas compris. Dites : hé, Dreame, que sais-tu faire pour découvrir toutes mes fonctions.
+324	Je suis en train de les laver. Réveillez-moi quand le lavage est terminé.
+328	Désolé, donnez cette commande uniquement pendant que je nettoie.
+329	Démarrage de l'auto-test, ne m'éloignez pas de la base.
+330	Réesayez une fois l'auto-test terminé.
+331	Aucune erreur détectée, vous pouvez utiliser l'appareil en toute confiance.
+332	Une erreur détectée, ouvrez l'application pour plus de détails.
+338	Appel vidéo connecté.
+339	COPY
+340	Aucune réponse.
+341	Je vous ai trouvé. Je commence à vous suivre. Dites, arrête, pour mettre fin au suivi.
+342	Où êtes-vous ? Placez-vous à environ un mètre cinquante devant moi.
+343	Je vous ai perdu. Vous marchez trop vite. Placez-vous à environ un mètre cinquante devant moi et laissez-moi vous retrouver.
+344	D'accord, je lave après l'aspiration.
+346	Merci de votre attention.
+349	Assurez-vous que la base est sous tension. Placez le robot dessus pour démarrer l'activation.
+350	Démarrage de l'activation de la base.
+351	Base activée.
+352	Échec de l'activation de la base. Ouvrez l'application pour la solution.
+355	Niveau d'eau faible, veuillez remplir le réservoir d'eau propre.
+356	Le défaut persiste. La tâche programmée a été annulée.
+360	Vidange du réservoir du robot.
+361	Vidange du réservoir du robot terminée.
+362	Vadrouille mal placée. Le robot effectuera la tâche d'aspiration à la place.
+363	Aspiration terminée, le robot va démarrer le lavage.
+364	Démarrage du réglage du code d'activation vidéo.
+365	La fonction vidéo en direct a été désactivée.
+366	Tache détectée, démarrage du nettoyage.
+367	D'accord, je démarre le nettoyage des taches.
+368	Tache détectée, je la nettoierai après le lavage.
+369	D'accord, je démarre le nettoyage localisé.
+371	Veuillez retirer la base de lavage.
+372	L'eau propre commence à couler.
+373	Écoulement de l'eau propre terminé. Attendez dix secondes, puis nettoyez la base une fois les saletés imbibées.
+374	Utilisez une brosse ou un chiffon pour nettoyer le fond de la base en moins de vingt secondes. L'eau usée sera ensuite évacuée automatiquement.
+375	Poussez les saletés vers la zone d'évacuation. L'évacuation durera trente secondes.
+376	Évacuation terminée, nettoyez la base de lavage séparément puis réinstallez-la.
+377	Impossible de configurer le réseau. Veuillez contacter le service client.
+378	Échec de la connexion au réseau avec le mot de passe. Veuillez reconfigurer.
+379	Aucun réseau sans fil trouvé, connectez-vous à la bande Wi-Fi deux quatre gigahertz. Réesayez en plaçant le robot près du routeur.
+380	Échec d'obtention de l'adresse IP. Veuillez vérifier les réglages du routeur.
+381	Échec de connexion au serveur. Veuillez contacter le service client.
+382	Échec de connexion au réseau. Veuillez vérifier que le réseau fonctionne normalement.
+383	Impossible de configurer le réseau. Veuillez contacter le service client.
+384	Pas d'eau dans le réservoir d'eau propre du module d'alimentation et d'évacuation automatique.
+385	Démarrage de la connexion au réseau.
+388	Zone bloquée, déplacez le robot vers une zone disponible et réessayez.
+389	Le capteur laser ne descend pas. Vérifiez s'il est bloqué.
+390	Le capteur laser ne se relève pas. Vérifiez s'il est bloqué.
+391	Placez-moi dans un espace dégagé avant de démarrer la tâche.
+392	Le réglage des paramètres de nettoyage n'est pas pris en charge en mode nettoyage intelligent.
+396	Démarrage de la vidange du module d'eau, environ trois minutes.
+397	Vidange des eaux terminée.
+398	Cartographie terminée, vérifiez la carte dans l'application et remettez-moi à la base.
+399	Test terminé, remettez-moi à la base.
+400	Auto-nettoyage terminé, déplacez le robot à l'étage souhaité et appuyez sur le bouton pour continuer.
+401	Placez-moi à la base et démarrez l'auto-nettoyage.
+421	Langue changée avec succès.
+424	Localisation échouée, déplacez-moi dans un espace dégagé et redémarrez la tâche.
+426	J'ai glissé et je suis coincé. Je vais essayer de me libérer.
+433	Démarrage du nettoyage supplémentaire.
+434	Nettoyage supplémentaire terminé. Reprise de la tâche initiale.
+435	Je quitte la zone actuelle.
+436	COPY
+437	Problème résolu, appuyez sur le bouton pour reprendre le nettoyage.
+438	Pare-chocs bloqué. Tapez doucement dessus pour vérifier qu'il revient normalement.
+439	Capot du capteur laser bloqué, tapez doucement sur sa zone souple pour vérifier qu'il revient.
+440	Roue du robot suspendue, déplacez-le dans un espace dégagé et redémarrez la tâche.
+441	Brosse principale enchevêtrée, retirez-la et nettoyez-la avant de la réinstaller.
+442	Brosse latérale enchevêtrée, retirez-la et nettoyez-la avant de la réinstaller.
+443	Roues principales enchevêtrées, veuillez les nettoyer.
+444	Placez le robot dans un espace dégagé avant de démarrer la tâche.
+445	La vadrouille est tombée, cherchez-la autour du robot et réinstallez-la.
+446	Support de vadrouille enchevêtré, retirez-le et nettoyez-le.
+447	La base n'est pas sous tension, vérifiez-la et remettez le robot pour charger.
+448	Réservoir d'eau usée non installé, veuillez l'installer avant de démarrer la tâche.
+449	Impossible de démarrer sur la moquette, déplacez le robot sur un sol dur et redémarrez.
+450	Impossible de démarrer en zone interdite, déplacez le robot ailleurs et redémarrez.
+451	Impossible de démarrer en zone cachée, déplacez le robot ailleurs et redémarrez.
+452	Erreur du capteur de moquette, retournez le robot, nettoyez le trou rond blanc en dessous et redémarrez.
+453	Erreur du capteur de bord, nettoyez le côté droit du robot et redémarrez la tâche.
+454	Eau insuffisante dans le réservoir d'eau propre, remplissez-le à temps.
+455	Le réservoir d'eau propre n'est pas bien placé. Réinstallez-le.
+456	Réservoir d'eau usée plein ou non installé, veuillez vérifier.
+457	Réservoir d'eau usée plein ou non installé, veuillez vérifier.
+458	Le sac à poussière n'est pas bien placé, vérifiez-le et installez-le.
+459	Le support de vadrouille n'est pas bien placé, vérifiez-le et installez-le.
+460	Le désodorisant du réservoir d'eau usée est usé, remplacez-le à temps.
+463	Bienvenue sur votre robot Dreame. Ouvrez le capot et scannez le code QR pour télécharger l'application Dreame Home et découvrir plus de fonctions.
+464	Pour des tâches sans accroc, remettez le robot à la base avant de commencer. Quand vous entendez, démarrage de la charge, l'installation est correcte.
+465	Remettez le robot à la base avant de commencer. Quand vous entendez, démarrage de la charge, l'installation est correcte.
+466	Ouvrez les portes des pièces à nettoyer et dégagez les objets au sol.
+467	Remettez le robot à la base, puis redémarrez la cartographie.
+468	Confirmez les détails de la carte dans l'application.
+478	Après le lavage de la vadrouille, le robot reprendra le nettoyage.
+479	D'accord, redémarrez votre tâche.
+480	Ajoutez assez d'eau dans le réservoir d'eau propre pour les prochaines tâches.
+481	Démarrage de la vidange de l'aspirateur.
+482	L'aspirateur est en train de se vider. La vidange du robot se fera ensuite.
+483	L'aspirateur est en train de se vider. Le lavage de la vadrouille se fera ensuite.
+484	L'aspirateur est en train de se vider. L'aspiration se fera ensuite.
+485	Le robot est en train de se vider, l'aspirateur se videra ensuite.
+486	Lavage de la vadrouille en cours. L'aspirateur se videra ensuite.
+487	Assurez-vous que je suis dans la base.
+488	COPY
+489	Mode nettoyage intelligent actif, dites-moi de terminer la tâche et réessayez.
+490	D'accord, passage en mode nettoyage personnalisé, démarrage du lavage.
+491	D'accord, passage en mode nettoyage personnalisé, démarrage de l'aspiration.
+492	D'accord, je nettoie le salon. Assurez-vous que la porte est ouverte.
+493	D'accord, je nettoie la chambre. Assurez-vous que la porte est ouverte.
+494	D'accord, je nettoie la chambre principale. Assurez-vous que la porte est ouverte.
+495	D'accord, je nettoie la chambre d'amis. Assurez-vous que la porte est ouverte.
+496	D'accord, je nettoie le bureau. Assurez-vous que la porte est ouverte.
+497	D'accord, je nettoie la cuisine. Assurez-vous que la porte est ouverte.
+498	D'accord, je nettoie la salle à manger. Assurez-vous que la porte est ouverte.
+499	D'accord, je nettoie la salle de bain. Assurez-vous que la porte est ouverte.
+500	D'accord, je nettoie le balcon. Assurez-vous que la porte est ouverte.
+501	D'accord, je nettoie le couloir. Assurez-vous que la porte est ouverte.
+502	D'accord, je nettoie la buanderie. Assurez-vous que la porte est ouverte.
+503	D'accord, je nettoie le placard. Assurez-vous que la porte est ouverte.
+504	D'accord, je nettoie le salon. Assurez-vous que la porte est ouverte.
+505	D'accord, je nettoie le bureau. Assurez-vous que la porte est ouverte.
+506	D'accord, je nettoie la salle de sport. Assurez-vous que la porte est ouverte.
+507	D'accord, je nettoie l'espace détente. Assurez-vous que la porte est ouverte.
+508	D'accord, j'ai augmenté le volume.
+509	D'accord, j'ai baissé le volume.
+510	D'accord, j'ai terminé le travail.
+511	Désolé, je n'exécute aucune tâche pour le moment.
+512	La carte ne contient pas encore les meubles pour animaux. Ajoutez-les dans l'application.
+513	D'accord, je nettoie autour des meubles pour animaux.
+515	Excusez-moi, pourriez-vous lever les pieds pour que je nettoie cette zone ?
+516	Démarrage de la recherche des animaux.
+517	Animaux trouvés, je retourne charger.
+518	Aucun animal trouvé, je retourne charger.
+522	Quel problème souhaitez-vous signaler ?
+523	Pourriez-vous décrire le problème plus en détail ?
+524	Emmenez-moi dans la zone où le problème est survenu.
+525	Veuillez patienter, j'analyse.
+526	Batterie à cent pour cent.
+527	Batterie à quatre-vingt-dix-neuf pour cent.
+528	Batterie à quatre-vingt-dix-huit pour cent.
+529	Batterie à quatre-vingt-dix-sept pour cent.
+530	Batterie à quatre-vingt-seize pour cent.
+531	Batterie à quatre-vingt-quinze pour cent.
+532	Batterie à quatre-vingt-quatorze pour cent.
+533	Batterie à quatre-vingt-treize pour cent.
+534	Batterie à quatre-vingt-douze pour cent.
+535	Batterie à quatre-vingt-onze pour cent.
+536	Batterie à quatre-vingt-dix pour cent.
+537	Batterie à quatre-vingt-neuf pour cent.
+538	Batterie à quatre-vingt-huit pour cent.
+539	Batterie à quatre-vingt-sept pour cent.
+540	Batterie à quatre-vingt-six pour cent.
+541	Batterie à quatre-vingt-cinq pour cent.
+542	Batterie à quatre-vingt-quatre pour cent.
+543	Batterie à quatre-vingt-trois pour cent.
+544	Batterie à quatre-vingt-deux pour cent.
+545	Batterie à quatre-vingt-un pour cent.
+546	Batterie à quatre-vingt pour cent.
+547	Batterie à soixante-dix-neuf pour cent.
+548	Batterie à soixante-dix-huit pour cent.
+549	Batterie à soixante-dix-sept pour cent.
+550	Batterie à soixante-seize pour cent.
+551	Batterie à soixante-quinze pour cent.
+552	Batterie à soixante-quatorze pour cent.
+553	Batterie à soixante-treize pour cent.
+554	Batterie à soixante-douze pour cent.
+555	Batterie à soixante-et-onze pour cent.
+556	Batterie à soixante-dix pour cent.
+557	Batterie à soixante-neuf pour cent.
+558	Batterie à soixante-huit pour cent.
+559	Batterie à soixante-sept pour cent.
+560	Batterie à soixante-six pour cent.
+561	Batterie à soixante-cinq pour cent.
+562	Batterie à soixante-quatre pour cent.
+563	Batterie à soixante-trois pour cent.
+564	Batterie à soixante-deux pour cent.
+565	Batterie à soixante-et-un pour cent.
+566	Batterie à soixante pour cent.
+567	Batterie à cinquante-neuf pour cent.
+568	Batterie à cinquante-huit pour cent.
+569	Batterie à cinquante-sept pour cent.
+570	Batterie à cinquante-six pour cent.
+571	Batterie à cinquante-cinq pour cent.
+572	Batterie à cinquante-quatre pour cent.
+573	Batterie à cinquante-trois pour cent.
+574	Batterie à cinquante-deux pour cent.
+575	Batterie à cinquante-et-un pour cent.
+576	Batterie à cinquante pour cent.
+577	Batterie à quarante-neuf pour cent.
+578	Batterie à quarante-huit pour cent.
+579	Batterie à quarante-sept pour cent.
+580	Batterie à quarante-six pour cent.
+581	Batterie à quarante-cinq pour cent.
+582	Batterie à quarante-quatre pour cent.
+583	Batterie à quarante-trois pour cent.
+584	Batterie à quarante-deux pour cent.
+585	Batterie à quarante-et-un pour cent.
+586	Batterie à quarante pour cent.
+587	Batterie à trente-neuf pour cent.
+588	Batterie à trente-huit pour cent.
+589	Batterie à trente-sept pour cent.
+590	Batterie à trente-six pour cent.
+591	Batterie à trente-cinq pour cent.
+592	Batterie à trente-quatre pour cent.
+593	Batterie à trente-trois pour cent.
+594	Batterie à trente-deux pour cent.
+595	Batterie à trente-et-un pour cent.
+596	Batterie à trente pour cent.
+597	Batterie à vingt-neuf pour cent.
+598	Batterie à vingt-huit pour cent.
+599	Batterie à vingt-sept pour cent.
+600	Batterie à vingt-six pour cent.
+601	Batterie à vingt-cinq pour cent.
+602	Batterie à vingt-quatre pour cent.
+603	Batterie à vingt-trois pour cent.
+604	Batterie à vingt-deux pour cent.
+605	Batterie à vingt-et-un pour cent.
+606	Batterie à vingt pour cent.
+607	Batterie à dix-neuf pour cent.
+608	Batterie à dix-huit pour cent.
+609	Batterie à dix-sept pour cent.
+610	Batterie à seize pour cent.
+611	Batterie à quinze pour cent.
+612	Batterie à quatorze pour cent.
+613	Batterie à treize pour cent.
+614	Batterie à douze pour cent.
+615	Batterie à onze pour cent.
+616	Batterie à dix pour cent.
+617	Batterie à neuf pour cent.
+618	Batterie à huit pour cent.
+619	Batterie à sept pour cent.
+620	Batterie à six pour cent.
+621	Batterie à cinq pour cent.
+622	Batterie à quatre pour cent.
+623	Batterie à trois pour cent.
+624	Batterie à deux pour cent.
+625	Batterie à un pour cent.
+626	Batterie à zéro pour cent.
+630	Bienvenue sur votre robot MOVA. Ouvrez le capot et scannez le code QR pour télécharger l'application et découvrir plus de fonctions.
+632	Le changement de langue de l'assistant vocal prend environ trente secondes.
+633	Échec du changement de langue, allez dans les réglages pour réinitialiser.
+636	La vadrouille est sale, placez le robot à la base pour le lavage automatique.
+638	Reprise de la vidange automatique.
+639	Veuillez installer le filtre de la base de lavage.
+641	Dites au robot : hé, MOVA, démarre le nettoyage.
+642	Dites au robot : hé, MOVA, augmente l'aspiration.
+643	Dites au robot : hé, MOVA, augmente le niveau d'eau.
+644	Dites au robot : hé, MOVA, aspire et lave pour changer de mode.
+645	Dites au robot : hé, MOVA, lave pour changer de mode.
+646	Dites au robot : hé, MOVA, viens ici et nettoie pour activer le nettoyage localisé.
+647	Dites au robot : hé, MOVA, lave après l'aspiration pour changer de mode.
+648	Dites au robot : hé, MOVA, démarre le nettoyage pour activer le nettoyage global.
+658	L'anti-calcaire a expiré, veuillez le remplacer à temps.
+659	Désolé, je n'ai pas compris. Dites : hé, MOVA, quelles sont tes compétences pour découvrir toutes mes fonctions.
+661	Démarrage du nettoyage de la base de lavage, environ quarante-cinq à soixante secondes.
+662	Démarrage de la production d'eau électrolysée pour le nettoyage.
+663	Niveau d'eau anormal détecté dans la base de lavage. Nettoyez le filtre et sa rainure, puis redémarrez la tâche.
+673	Les roues d'écartement peuvent être enchevêtrées. Nettoyez-les avant de démarrer.
+677	Impossible d'atteindre la zone demandée, retirez les zones interdites ou les seuils infranchissables sur le trajet.
+678	Le trajet est bloqué, retirez les zones interdites ou les seuils infranchissables, ou déplacez le robot.
+679	Le robot est bloqué dans une zone interdite ou un seuil infranchissable. Sortez-le de la zone.
+680	Le robot cartographiera la zone avant de nettoyer.
+681	D'accord, je continue le nettoyage.
+684	Hé !
+685	Bouh ! Bouh !
+686	COPY
+687	COPY
+688	COPY
+694	Dites au robot : hé, MOVA, démarre le nettoyage.

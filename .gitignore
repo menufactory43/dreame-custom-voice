@@ -6,3 +6,4 @@ base_pack/
 *.wav
 *.ogg
 !docs/**/*.ogg
+__pycache__/
