@@ -40,6 +40,33 @@ python3 scripts/02-generate-voice.py --all
 ./scripts/03-build-pack.sh && ./scripts/05-install.sh
 ```
 
+## 🎙️ Voix GLaDOS française (pré-entraînée)
+
+Une voix **GLaDOS en français** (fine-tune piper sur le checkpoint siwis/medium,
+à partir des 514 sons du pack de base + traductions) est publiée en
+[Release](https://github.com/menufactory43/dreame-custom-voice/releases).
+
+```bash
+./scripts/00-fetch-glados-fr.sh          # télécharge le modèle ONNX pré-entraîné
+
+export PIPER_MODEL="$PWD/dist/fr_FR-glados_fr-medium.onnx"
+export PIPER_CONFIG="$PWD/dist/fr_FR-glados_fr-medium.onnx.json"
+pip install piper-tts                    # moteur d'inférence local (léger)
+
+python3 scripts/02-generate-voice.py --all --backend piper
+./scripts/03-build-pack.sh && ./scripts/04-serve.sh && ./scripts/05-install.sh
+```
+
+Les 514 traductions françaises sont dans [`data/transcriptions_fr.tsv`](data/transcriptions_fr.tsv)
+— le slot 12 porte la phrase *« La tâche est terminée, Maître. Une chartreuse, maintenant ? »*.
+
+### Entraîner sa propre voix
+
+Le pipeline complet (dataset → fine-tune piper → export ONNX) est dans
+[`scripts/train/`](scripts/train/) et documenté dans
+[`docs/TRAINING.md`](docs/TRAINING.md). Permet de créer n'importe quelle voix
+(ta propre voix, un personnage…) pour le robot.
+
 ## Entendre le résultat sans lancer de ménage
 
 Le firmware n'expose aucune commande « joue le son N ». Mais `locate` joue les IDs **45/246**.
